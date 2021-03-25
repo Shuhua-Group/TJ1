@@ -1,7 +1,7 @@
 # TJ1
 
 ## Description
-We applied multiple sequencing technologies to de novo assemble an individual genome (TJ1) from the Tujia population, an ethnic minority group most closely related to the Han Chinese. we used these softwares to performance the calling, genotying and phasing accuracy of using TJ1 genome.
+We applied multiple sequencing technologies to de novo assemble an individual genome (TJ1) from the Tujia population, an ethnic minority group most closely related to the Han Chinese. And we used these softwares to performance the calling, genotying and phasing accuracy of using TJ1 genome.
 
 ## Softwares:
 * EAGLE, https://github.com/sequencing/EAGLE  
