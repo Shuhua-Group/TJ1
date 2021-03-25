@@ -15,3 +15,6 @@ paragraph, https://github.com/Illumina/paragraph
 RTG tools, https://github.com/RealTimeGenomics/rtg-tools
 
 SHAPEIT4, https://odelaneau.github.io/shapeit4/
+
+
+The softweres were used in our manuascript.
