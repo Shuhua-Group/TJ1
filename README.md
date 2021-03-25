@@ -1,4 +1,5 @@
 # TJ1
+## Haplotype-resolved de novo assembly of a Tujia genome suggests the necessity for high-quality population-specific genome references.
 We applied multiple sequencing technologies to de novo assemble an individual genome (TJ1) from the Tujia population, an ethnic minority group most closely related to the Han Chinese.
 
 # Softwares:
