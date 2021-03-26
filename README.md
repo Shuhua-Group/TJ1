@@ -12,7 +12,7 @@ We applied multiple sequencing technologies to de novo assemble an individual ge
 * RTG tools, https://github.com/RealTimeGenomics/rtg-tools
 * SHAPEIT4, https://odelaneau.github.io/shapeit4/  
 
-## Introduction of pipeline
+## Introduction of scripts
 * Filter_data_and_use_rtg-tools.py: Filter variants and use rtg software to get the accuracy of variant calling  
 * TJ1_SV.circlize.R: Use circlize packages to plot TJ1 SV distribution  
 * run_EAGLE.sh: Use EAGLE to simulate a sample and its sequencing
