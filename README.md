@@ -16,3 +16,6 @@ We applied multiple sequencing technologies to de novo assemble an individual ge
 * Filter_data_and_use_rtg-tools.py: Filter variants and use rtg software to get the accuracy of variant calling  
 * TJ1_SV.circlize.R: Use circlize packages to plot TJ1 SV distribution  
 * run_EAGLE.sh: Use EAGLE to simulate a sample and its sequencing
+
+## Citation
+Lou H, Gao Y, Xie B, Wang Y, Zhang H, Shi M, Ma S, Zhang X, Liu C, Xu S. Haplotype-resolved de novo assembly of a Tujia genome suggests the necessity for high-quality population-specific genome references. Under Review.
