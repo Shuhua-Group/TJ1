@@ -13,6 +13,7 @@ We applied multiple sequencing technologies to de novo assemble an individual ge
 * SHAPEIT4, https://odelaneau.github.io/shapeit4/  
 
 ## Introduction of scripts
+* 000-GATK_pipeline: Short reads mapping and variants calling
 * Filter_data_and_use_rtg-tools.py: Filter variants and use rtg software to get the accuracy of variant calling  
 * TJ1_SV.circlize.R: Use circlize packages to plot TJ1 SV distribution  
 * run_EAGLE.sh: Use EAGLE to simulate a sample and its sequencing
